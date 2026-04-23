@@ -1,0 +1,15 @@
+{
+  "name": "range",
+  "version": "1.0.0",
+  "description": "design patterns task 1",
+  "license": "ISC",
+  "author": "Mohamed Ashraf",
+  "type": "commonjs",
+  "main": "range.js",
+  "scripts": {
+    "start": "nodemon range.js"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
